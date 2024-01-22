@@ -1,5 +1,5 @@
 # 1.1-Assignment
-Repository for server files.
+Repository for json files.
 {
    "user1" : {
       "name" : "mahesh",
